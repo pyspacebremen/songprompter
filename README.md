@@ -1,4 +1,4 @@
-# pyshb_songprompter
+# songprompter
 Song and Text Prompter for Raspberry Pi
 
 This tkinter module parses song lyrics in txt format and displays them for use in karaoke.
